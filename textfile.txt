@@ -16,7 +16,7 @@
         }
     </style>
 
-<body bgcolor="sky blue"> welcome to my page
+
     <center>
         <h1><u>SMITH</u></h1>
     </center>
