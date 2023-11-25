@@ -5,7 +5,7 @@
     <title>joyal</title>
     <style>
         .style p{
-            color: azure;
+           
             text-align:right;
             
         }
