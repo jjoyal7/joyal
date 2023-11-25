@@ -61,6 +61,10 @@ Address : 3/25,rajasekar compond,
         Lorem ipsum dolor sit, amet consectetur adipisicing elit. Harum fuga quam ipsum blanditiis quos maxime ab
         tempore porro! Quis nam atque facilis eveniet cum repudiandae aliquam, laudantium et numquam ducimus.
     </p>
+<p>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Harum fuga quam ipsum blanditiis quos maxime ab
+        tempore porro! Quis nam atque facilis eveniet cum repudiandae aliquam, laudantium et numquam ducimus.
+    </p>
     <figure><img
             src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxX4MGcxKfIuj1opw1fYCsJnWqfKgO7lYd_w&usqp=CAU"
             width="150px " height=150px" alt="joe">
