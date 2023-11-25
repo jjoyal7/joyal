@@ -1,0 +1,98 @@
+<!doctype html>
+<html>
+
+<head>
+    <title>joyal</title>
+    <style>
+        .style p{
+            color: azure;
+            text-align:right;
+            
+        }
+    </style>
+    <style>
+        .balu p{
+            color: brown;
+        }
+    </style>
+
+<body bgcolor="sky blue"> welcome to my page
+    <center>
+        <h1><u>SMITH</u></h1>
+    </center>
+    <h3>smith</h3>
+    <h3>smith044@gmail.com</h3>
+    <h3>9876543234</h3>
+    <pre>
+Address : 3/25,rajasekar compond,
+           muthanampalayam road,
+           nallur,tirupur-641606.  
+  
+</pre>
+    <hr>
+    <h2> ABOUT ME</h2><!--HEADING -->
+    <div class="style">
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Obcaecati, nisi. Assumenda, impedit cumque ipsam
+            corporis, itaque velit debitis aliquid et quis facere repudiandae dolores eius nulla ipsa eos exercitationem
+            atque?
+        </p>
+        <P> When you create a professional profile, blog or website, it's important to help customers or potential
+            employers form a personal connection to you through an "about me" section. This is because personal
+            connections can help individuals learn more about you and potentially increase their interest in your
+            products, services or availability as an employee.<br>Reviewing "about me" examples can help you create your
+            own compelling summary of your values, skills and accomplishments. In this article, we explain what "about
+            me" statements are and share 31 examples to help you create your own effective page.
+    </div>
+    </p>
+    <div class="balu">
+    <P> When you create a professional profile, blog or website, it's important to help customers or potential employers
+        form a personal connection to you through an "about me" section. This is because personal connections can help
+        individuals learn more about you and potentially increase their interest in your products, services or
+        availability as an employee.<br>Reviewing "about me" examples can help you create your own compelling summary of
+        your values, skills and accomplishments. In this article, we explain what "about me" statements are and share 31
+        examples to help you create your own effective page.
+    </div>
+</p>
+    <p>
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quae ullam unde dolores autem fugit quo ab iure cum
+        laborum culpa quisquam natus, nisi nulla, beatae nam aliquam placeat porro labore!
+    </p>
+    <p>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Harum fuga quam ipsum blanditiis quos maxime ab
+        tempore porro! Quis nam atque facilis eveniet cum repudiandae aliquam, laudantium et numquam ducimus.
+    </p>
+    <figure><img
+            src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxX4MGcxKfIuj1opw1fYCsJnWqfKgO7lYd_w&usqp=CAU"
+            width="150px " height=150px" alt="joe">
+        <figcaption>SMITH</figcaption>
+        </firure>
+        <ul type=" square">
+            <li>one</li>
+            <li>two</li>
+            <li>three</li>
+            <li>four</li>
+            <li>five</li>
+            </li>
+            </ui>
+            <ol type="1 start=" 1">
+                <li>one
+            </ol>
+            <li>two</oi>
+            <li>three</ol>
+            <li>four</ol>
+            <li>five</ol>
+            </li>
+            </ol>
+            <dl>
+                <dt>the html</dt>
+                <dd> how was the class</dd>
+            </dl>
+
+            <marquee direction="right" scrollamount="15">smith </marquee>
+
+
+
+</body>
+</head>
+
+</html>
